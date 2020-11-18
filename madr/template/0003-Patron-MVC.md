@@ -1,7 +1,7 @@
 # Se debe mostrar una interfaz de usuario y se use el Patrón Modelo Vista Controlador
-Status:Proposed
-Deciders:Antonio Agudo y Marcos Robles
-Date:2020/11/18
+* Status:Proposed
+* Deciders:Antonio Agudo y Marcos Robles
+* Date:2020/11/18
 ## Context and Problem Statement
 Se usará el patrón MVC para la comunicación con el cliente de los microservicios
 ## Decision Drivers
