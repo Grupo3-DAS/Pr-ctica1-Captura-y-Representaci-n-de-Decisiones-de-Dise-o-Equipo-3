@@ -1,4 +1,4 @@
-# El sistema constará de un servicio de gestión de solicitudes y respuestas y se usa usa una arquitectura cliente-servidor
+# Decisión de Dsieño AD-02: Servicio de gestión de solicitudes y respuestas
 
 * Status: proposed
 * Deciders: Antonio Agudo y Marcos Robles
