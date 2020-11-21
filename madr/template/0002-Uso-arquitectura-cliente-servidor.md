@@ -1,4 +1,4 @@
-# Decisión de Dsieño AD-02: Servicio de gestión de solicitudes y respuestas
+# Decisión de Dsieño ADD-02: Servicio de gestión de solicitudes y respuestas
 
 * Status: proposed
 * Deciders: Antonio Agudo y Marcos Robles
