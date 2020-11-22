@@ -1,6 +1,6 @@
 # Decisión de Diseño ADD-01: Usar una arquitectura de microservicios para migrar de una arquitectura monolítica
 
-* Status: Proposed <!-- optional -->
+* Status: accepted  <!-- optional -->
 * Deciders: Antonio Agudo Esperanza y Marcos Robles Rodriguez<!-- optional -->
 * Date: 2020-11-17 <!-- optional -->
 
