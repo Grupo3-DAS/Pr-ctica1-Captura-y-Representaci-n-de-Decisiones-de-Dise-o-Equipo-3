@@ -1,5 +1,5 @@
 # Decisión de Diseño ADD-03: Se debe mostrar una interfaz de usuario
-* Status:Proposed
+* Status:accepted 
 * Deciders:Antonio Agudo y Marcos Robles
 * Date:2020/11/18
 
