@@ -1,6 +1,6 @@
 # Decisión de Dsieño ADD-02: Servicio de gestión de solicitudes y respuestas
 
-* Status: proposed
+* Status: accepted 
 * Deciders: Antonio Agudo y Marcos Robles
 * Date: 2020-11-17
 
