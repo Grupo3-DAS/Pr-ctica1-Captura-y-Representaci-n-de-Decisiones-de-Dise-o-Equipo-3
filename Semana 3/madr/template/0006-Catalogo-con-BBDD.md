@@ -34,9 +34,11 @@ Chosen option: Al final hemos seleccionado esta decisión ya que cumple con el r
 
 ## Pros and Cons of the Options <!-- optional -->
 
-### [option 1]
-
 AD007- Patrón composite
  
 Buena, agrupación de todos los microservicios en un único catalogo global
 Mala, parentesco con una arquitectura monolítica
+
+## Links
+
+* [Requisito RF004](https://github.com/Grupo3-DAS/Pr-ctica1-Captura-y-Representaci-n-de-Decisiones-de-Dise-o-Equipo-3/blob/main/DAS-P1-Alba_Sevillano_Portilla-TAREA1.pdf)
