@@ -1,4 +1,4 @@
-# Comunicación de las BBDD de los microservicios mediante el patrón CQRS
+# Decisión de diseño ADD-05: Comunicación de las BBDD de los microservicios.
 * Status: proposed
 * Deciders: Antonio Agudo Esperanza y Marcos Robles Rodríguez
 * Date: 2020-11-24
