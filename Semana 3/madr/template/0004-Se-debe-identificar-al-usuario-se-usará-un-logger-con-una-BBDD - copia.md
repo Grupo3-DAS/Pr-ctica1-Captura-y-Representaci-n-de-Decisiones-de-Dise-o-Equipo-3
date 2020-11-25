@@ -12,7 +12,7 @@
 * (como expansión de la opción elegida)Usar un OTP (one time password) 
 * (como expansión de la opción elegida)Usar verificación en 2 pasos
 ## Decision Outcome
-* Chosen option:  un logger con una BBDD, ya que consideramos que es una base extensible a la que se le puede añadir otras mejoras de seguridad como OTP o verificación en 2 pasos
+* Chosen option:  un logger con una BBDD diseñado como microservicio independiente, ya que consideramos que es una base extensible a la que se le puede añadir otras mejoras de seguridad como OTP o verificación en 2 pasos. A nivel funcional recibirá los datos y devolverá una cookie que se usará para la identidad en el resto de microservicios.
  
 ### Positive Consequences
 * Rápido tiempo de acceso
