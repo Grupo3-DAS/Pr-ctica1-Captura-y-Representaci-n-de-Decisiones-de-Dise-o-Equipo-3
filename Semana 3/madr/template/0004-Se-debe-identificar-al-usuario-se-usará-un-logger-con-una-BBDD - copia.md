@@ -1,9 +1,9 @@
-# Se debe identificar al usuario y para ello se usará un logger con una BBDD
+# Decisión de Diseño ADD-03: Identificación del usuario.
 * Status:proposed 
 * Deciders: Antonio Agudo y Marcos Robles
 * Date: 2020/11/24
 ## Context and Problem Statement
-* Dado que de se debe almacenar un registro de los clientes y que estos deben hacer login para acceder a los diferentes microservicios, se necesita dar esta posibilidad al sistema.
+* Dado que de se debe almacenar un registro de los clientes y que estos deben hacer login para acceder a los diferentes microservicios, se necesita dar esta posibilidad al sistema mediante un logger que contará con una BBDD.
 ## Decision Drivers
 * Los usuarios tienen datos propios como nombre o correo
 * Todos esos datos deben almacenarse en una BBDD
