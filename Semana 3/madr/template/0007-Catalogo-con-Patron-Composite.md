@@ -38,3 +38,7 @@ Bueno, ya que es fácil añadir nuevos microservicios ya que solo es crear una n
 Bueno, porque es fácil de implementar.
 Bueno, ya que es eficiente en memoria.
 Malo, porque puede resultar demasiado simple si se desea tener una descripción o campos detallados.
+
+## Links <!-- optional -->
+
+**[Requisito RF004](https://github.com/Grupo3-DAS/Pr-ctica1-Captura-y-Representaci-n-de-Decisiones-de-Dise-o-Equipo-3/blob/main/DAS-P1-Alba_Sevillano_Portilla-TAREA1.pdf)
