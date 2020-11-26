@@ -4,6 +4,7 @@
 * Deciders:Antonio Agudo Esperanza y Marcos Robles Rodriguez
 * Date: 2020-11-25
 
+Esta decisión se hizo de manera paralela a la ADD-0007
 
 ## Context and Problem Statement
 
@@ -11,7 +12,7 @@
 
 ## Decision Drivers <!-- optional -->
 
-* Se quiere que simplemente sea un catálogo simple compuesto, por ejemplo, por una id, el nombre, una descripción corta y su URL.
+* Se quiere que simplemente sea un catálogo simple. Compuesto, por ejemplo, por una id, el nombre, una descripción corta y su URL.
 
 ## Considered Options
 
