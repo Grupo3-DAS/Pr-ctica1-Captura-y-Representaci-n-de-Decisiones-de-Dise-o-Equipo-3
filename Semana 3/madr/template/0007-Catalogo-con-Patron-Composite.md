@@ -1,4 +1,4 @@
-# Uso del patrón Composite para mostrar los microservicios
+# Decisión de Diseño ADD-0007: Uso del patrón Composite para mostrar los microservicios
 
 * Status: rejected
 * Deciders:Antonio Agudo Esperanza y Marcos Robles Rodriguez
@@ -20,7 +20,7 @@ Para mostrar los diferentes tipos de microservicios he propuesto usar el patrón
 
 ## Decision Outcome
 
-Chosen option: Esta opción ha sido rechazada, mirar AD006
+* Chosen option: Esta opción ha sido rechazada, mirar AD006
 
 ### Positive Consequences <!-- optional -->
 
@@ -32,12 +32,12 @@ Chosen option: Esta opción ha sido rechazada, mirar AD006
 
 ## Pros and Cons of the Options <!-- optional -->
 
-Uso BBDD
+### Uso BBDD
 
-Bueno, ya que es fácil añadir nuevos microservicios ya que solo es crear una nueva entrada en la base de datos.
-Bueno, porque es fácil de implementar.
-Bueno, ya que es eficiente en memoria.
-Malo, porque puede resultar demasiado simple si se desea tener una descripción o campos detallados.
+* Bueno, ya que es fácil añadir nuevos microservicios ya que solo es crear una nueva entrada en la base de datos.
+* Bueno, porque es fácil de implementar.
+* Bueno, ya que es eficiente en memoria.
+* Malo, porque puede resultar demasiado simple si se desea tener una descripción o campos detallados.
 
 ## Links <!-- optional -->
 
