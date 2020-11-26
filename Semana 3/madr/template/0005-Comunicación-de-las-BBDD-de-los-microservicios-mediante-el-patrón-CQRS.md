@@ -3,14 +3,14 @@
 * Deciders: Antonio Agudo Esperanza y Marcos Robles Rodríguez
 * Date: 2020-11-24
 ## Context and Problem Statement
-* Se debe comunicar las distintas BBDD con sus microservicios.
+* Se debe comunicar las distintas BBDD con sus respectivos microservicios.
 ## Decision Drivers
-* División de comandos y queries
-* Sugerencia del cliente
+* Se busca dividir los comandos y queries
+* El cliente sugiere que usemos CQRS
 ## Considered Options
-*  Mediante acceso directo
+*  Acceder a las bases de datos mediante un solo canal por microservicio y sin dividir comandos y queries. 
 ## Decision Outcome
-* Chosen option: "Comunicación de las BBDD de los microservicios mediante el patrón CQRS, ya que opinamos que dividir las operaciones en dos subgrupos puede ayudar a que haya menos congestión, como por ejemplo, si hay muchas queries y pocos comandos, que los comandos no tengan que esperar.
+* Chosen option: "Comunicación de las BBDD de los microservicios mediante el patrón CQRS, ya que opinamos que dividir las operaciones en dos subgrupos puede ayudar a que haya menos congestión, como por ejemplo, si hay muchas queries y pocos comandos, que los comandos no tengan que esperar a que se descongestionen las queries.
 ## Positive Consequences
 * Separación de responsabilidades
 * Evitar la congestión en una operación concreta si esta está poco cargada.
