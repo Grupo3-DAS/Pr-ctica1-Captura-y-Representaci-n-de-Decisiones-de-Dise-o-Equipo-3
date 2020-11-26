@@ -23,9 +23,9 @@
 
 ### Positive Consequences <!-- optional -->
 
-*Es fácil añadir nuevos microservicios ya que solo es crear una nueva entrada en la base de datos.
-*Es fácil de implementar.
-*Es eficiente en memoria.
+* Es fácil añadir nuevos microservicios ya que solo es crear una nueva entrada en la base de datos.
+* Es fácil de implementar.
+* Es eficiente en memoria.
 
 
 ### Negative Consequences <!-- optional -->
