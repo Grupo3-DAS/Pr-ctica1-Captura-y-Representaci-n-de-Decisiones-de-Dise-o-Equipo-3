@@ -34,10 +34,11 @@ Chosen option: Al final hemos seleccionado esta decisión ya que cumple con el r
 
 ## Pros and Cons of the Options <!-- optional -->
 
-AD007- Patrón composite
+### AD007- Patrón composite
  
-Buena, agrupación de todos los microservicios en un único catalogo global
-Mala, parentesco con una arquitectura monolítica
+* Buena, agrupación de todos los microservicios en un único catalogo global
+* Mala, parentesco con una arquitectura monolítica
+* Mala, hace los microservicios dependientes de otro
 
 ## Links
 
