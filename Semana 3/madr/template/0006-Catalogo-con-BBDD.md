@@ -7,7 +7,7 @@
 
 ## Context and Problem Statement
 
-Se requiere la funcionalidad de que haya un catálogo de microservicios.
+* Se requiere la funcionalidad de que haya un catálogo de microservicios.
 
 ## Decision Drivers <!-- optional -->
 
@@ -19,7 +19,7 @@ Se requiere la funcionalidad de que haya un catálogo de microservicios.
 
 ## Decision Outcome
 
-Chosen option: Al final hemos seleccionado esta decisión ya que cumple con el requisito, y la otra opción hacía que los microservicios fueran dependientes del catálogo, por lo que provocaría dependencias innecesarias.
+* Chosen option: Al final hemos seleccionado esta decisión ya que cumple con el requisito, y la otra opción hacía que los microservicios fueran dependientes del catálogo, por lo que provocaría dependencias innecesarias.
 
 ### Positive Consequences <!-- optional -->
 
