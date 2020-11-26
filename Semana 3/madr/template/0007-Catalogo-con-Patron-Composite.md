@@ -4,6 +4,7 @@
 * Deciders:Antonio Agudo Esperanza y Marcos Robles Rodriguez
 * Date: 2020-11-25
 
+Esta decisión se hizo de manera paralela a la ADD-0006
 
 ## Context and Problem Statement
 
