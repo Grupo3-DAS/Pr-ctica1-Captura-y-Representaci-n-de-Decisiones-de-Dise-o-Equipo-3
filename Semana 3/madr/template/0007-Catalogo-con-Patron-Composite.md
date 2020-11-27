@@ -1,4 +1,4 @@
-# Decisión de Diseño ADD-0007: Uso del patrón Composite para mostrar los microservicios
+# Decisión de Diseño ADD-07: Uso del patrón Composite para mostrar los microservicios
 
 * Status: rejected
 * Deciders:Antonio Agudo Esperanza y Marcos Robles Rodriguez
