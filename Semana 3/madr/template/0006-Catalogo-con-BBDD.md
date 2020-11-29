@@ -1,6 +1,6 @@
 # Decisión de Diseño ADD-06: Usar BBDD para mostrar un catálogo de microservicios
 
-* Status: proposed 
+* Status: accepted 
 * Deciders:Antonio Agudo Esperanza y Marcos Robles Rodriguez
 * Date: 2020-11-25
 
