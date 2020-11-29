@@ -1,5 +1,5 @@
 # Decisión de Diseño ADD-04: Identificación del usuario.
-* Status:proposed 
+* Status:accepted 
 * Deciders: Antonio Agudo y Marcos Robles
 * Date: 2020/11/24
 ## Context and Problem Statement
