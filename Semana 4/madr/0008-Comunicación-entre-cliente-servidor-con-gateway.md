@@ -1,6 +1,6 @@
 # Uso de un gateway a diferentes APIs
 * Status: proposed <!-- optional -->
-* Deciders: Antonio Agudo Esperanza <!-- optional -->
+* Deciders: Antonio Agudo Esperanza y Marcos Robles Rodríguez<!-- optional -->
 * Date: 2020-12-1 <!-- optional -->
 
 ## Context and Problem Statement
@@ -17,8 +17,6 @@ El cliente nos ha expuesto que usemos un gateway y hemos decidido conectarlo a u
 
 * Uso de gateway
 * Conexion directa entre el cliente con los microservicios
-* [option 3]
-* … <!-- numbers of options can vary -->
 
 ## Decision Outcome
 
@@ -38,9 +36,7 @@ Chosen option: Uso de el gateway, porque consideramos muy importante la modulari
 
 ## Pros and Cons of the Options <!-- optional -->
 
-### Cliente servidor directo
-
-[example | description | pointer to more information | …] <!-- optional -->
+### Cliente servidor directo>
 
 * Bueno, ya que es más simple de programar y hacer.
 * Malo, ya que el cliente debe conocer a la perfección los microservicios ya que no hay ninguna API que se los facilite
@@ -48,5 +44,5 @@ Chosen option: Uso de el gateway, porque consideramos muy importante la modulari
 
 ## Links <!-- optional -->
 
-* Requisito Funcional 1.x https://github.com/Grupo3-DAS/Pr-ctica1-Captura-y-Representaci-n-de-Decisiones-de-Dise-o-Equipo-3/blob/main/DAS-P1-Alba_Sevillano_Portilla-TAREA1.pdf
+* [Requisito Funcional 1.x](https://github.com/Grupo3-DAS/Pr-ctica1-Captura-y-Representaci-n-de-Decisiones-de-Dise-o-Equipo-3/blob/main/DAS-P1-Alba_Sevillano_Portilla-TAREA1.pdf)
 * … <!-- numbers of links can vary -->
