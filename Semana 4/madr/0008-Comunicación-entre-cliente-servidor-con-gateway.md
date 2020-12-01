@@ -45,4 +45,4 @@ Chosen option: Uso de el gateway, porque consideramos muy importante la modulari
 ## Links <!-- optional -->
 
 * [Requisito Funcional 1.x](https://github.com/Grupo3-DAS/Pr-ctica1-Captura-y-Representaci-n-de-Decisiones-de-Dise-o-Equipo-3/blob/main/DAS-P1-Alba_Sevillano_Portilla-TAREA1.pdf)
-* … <!-- numbers of links can vary -->
+
