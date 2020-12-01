@@ -20,7 +20,7 @@ El cliente nos ha expuesto que usemos un gateway y hemos decidido conectarlo a u
 
 ## Decision Outcome
 
-Chosen option: Uso de el gateway, porque consideramos muy importante la modularización y el bajo acoplamiento para que sea posible una mejor escalabilidad en nuestra arquitectura, además, las APIs y el gateway pueden hacer realizar intermedias como el procesamiento de pedidos y puede servir como una capa extra de seguridad.
+Chosen option: Uso de el gateway, porque consideramos muy importante la modularización y el bajo acoplamiento para que sea posible una mejor escalabilidad en nuestra arquitectura, además, las APIs y el gateway puede realizar acciones intermedias como el procesamiento de pedidos y puede servir como una capa extra de seguridad.
 
 ### Positive Consequences <!-- optional -->
 
