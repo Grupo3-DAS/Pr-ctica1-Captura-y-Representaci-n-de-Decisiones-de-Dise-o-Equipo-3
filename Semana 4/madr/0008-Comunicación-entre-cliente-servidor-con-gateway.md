@@ -20,7 +20,7 @@ El cliente nos ha expuesto que usemos un gateway y hemos decidido conectarlo a u
 
 ## Decision Outcome
 
-Chosen option: Uso de el gateway, porque consideramos muy importante la modularización y el bajo acoplamiento para que sea posible una mejor escalabilidad en nuestra arquitectura, además, las APIs y el gateway puede realizar acciones intermedias como el procesamiento de pedidos y puede servir como una capa extra de seguridad.
+Chosen option: Uso de el gateway, porque consideramos muy importante la modularización y el bajo acoplamiento para que sea posible una mejor escalabilidad en nuestra arquitectura, además, las APIs y el gateway puede realizar acciones intermedias y puede servir como una capa extra de seguridad.
 
 ### Positive Consequences <!-- optional -->
 
@@ -44,5 +44,5 @@ Chosen option: Uso de el gateway, porque consideramos muy importante la modulari
 
 ## Links <!-- optional -->
 
-* [Requisito Funcional 1.x](https://github.com/Grupo3-DAS/Pr-ctica1-Captura-y-Representaci-n-de-Decisiones-de-Dise-o-Equipo-3/blob/main/DAS-P1-Alba_Sevillano_Portilla-TAREA1.pdf)
+* [Requisito Funcional 1.2 y 1.3](https://github.com/Grupo3-DAS/Pr-ctica1-Captura-y-Representaci-n-de-Decisiones-de-Dise-o-Equipo-3/blob/main/DAS-P1-Alba_Sevillano_Portilla-TAREA1.pdf)
 
