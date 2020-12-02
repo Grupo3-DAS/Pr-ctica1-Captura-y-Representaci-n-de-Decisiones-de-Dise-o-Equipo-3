@@ -1,5 +1,5 @@
 
-# Canal de mensajería mediante un event bus
+# Decisión de Diseño ADD-09: Canal de mensajería mediante un event bus
 * Status: proposed
 * Deciders: Antonio Agudo Esperanza
 * Date: 2020-12-01
