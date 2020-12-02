@@ -1,4 +1,4 @@
-# Implementar el procesado de pedidos como un microservicio
+# Decisión de Diseño ADD-11: Implementar el procesado de pedidos como un microservicio
 * Status: proposed
 * Deciders: Marcos Robles Rodríguez
 * Date: 2020-12-02
