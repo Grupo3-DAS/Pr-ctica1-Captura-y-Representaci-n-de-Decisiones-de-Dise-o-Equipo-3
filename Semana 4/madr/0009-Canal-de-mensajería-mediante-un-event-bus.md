@@ -2,7 +2,7 @@
 # Canal de mensajería mediante un event bus
 * Status: proposed
 * Deciders: Antonio Agudo Esperanza
-* Date: 2020-12-XX
+* Date: 2020-12-01
 ## Context and Problem Statement
 * La lógica de aplicación deberá contener un canal de mensajería para que se comuniquen los diferentes microservicios entre ellos. Este deberá estar basado principalmente en agentes de mensajes.
 ## Decision Drivers
