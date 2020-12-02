@@ -17,8 +17,8 @@
 ## Positive Consequences
 * Es más sencillo de desarrollar
 ## Negative Consequences
- * ya que se está añadiendo funcionalidades que no corresponden al gateway
- * ya que si hay mucho pedidos el gateway podría retrasarse en sus otras tareas
+ * Se está añadiendo funcionalidades que no corresponden al gateway
+ * Si hay mucho pedidos el gateway podría retrasarse en sus otras tareas
 ## Pros and Cons of the Options
 ### Crear un microservicio que procese los pedidos
 * Bueno, se quita carga del gateway
