@@ -11,7 +11,7 @@
 * Quitar carga de partes del sistema que no sean un microservicio
 ## Considered Options
 * Hacer que el gateway procese los pedidos
-** Crear un microservicio que procese los pedidos
+* Crear un microservicio que procese los pedidos
 ## Decision Outcome
 * Chosen option: Crear un microservicio que procese los pedidos (ver [ADD-0011](https://github.com/Grupo3-DAS/Pr-ctica1-Captura-y-Representaci-n-de-Decisiones-de-Dise-o-Equipo-3/blob/main/Semana%204/madr/0011-Implementar-el-procesado-de-pedidos-como-un-microservicio.md))
 ## Positive Consequences
