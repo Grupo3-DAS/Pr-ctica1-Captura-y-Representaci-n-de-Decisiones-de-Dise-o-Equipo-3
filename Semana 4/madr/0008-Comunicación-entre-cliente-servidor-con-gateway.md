@@ -1,4 +1,4 @@
-# Uso de un gateway a diferentes APIs
+# Decision de diseño ADD-08: Uso de un gateway a diferentes APIs
 * Status: proposed <!-- optional -->
 * Deciders: Antonio Agudo Esperanza y Marcos Robles Rodríguez<!-- optional -->
 * Date: 2020-12-1 <!-- optional -->
