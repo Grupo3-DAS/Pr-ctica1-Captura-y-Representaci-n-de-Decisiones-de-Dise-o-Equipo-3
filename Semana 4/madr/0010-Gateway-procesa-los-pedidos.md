@@ -1,4 +1,4 @@
-# Hacer que el gateway procese los pedidos
+# Decisión de Diseño ADD-10: Hacer que el gateway procese los pedidos
  
  
 * Status: rejected
