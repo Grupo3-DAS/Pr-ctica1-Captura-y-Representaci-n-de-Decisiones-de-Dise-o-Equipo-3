@@ -3,7 +3,7 @@
  
 * Status: rejected
 * Deciders: Antonio Agudo Esperanza
-* Date: 2020-12-XX
+* Date: 2020-12-02
 ## Context and Problem Statement
 * Se pide que el sistema sea capaz de procesar los pedidos que le llegan.
 ## Decision Drivers
