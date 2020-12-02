@@ -1,9 +1,9 @@
-# Elección de contenedor de nuestros microservicios, con Docker
+# Decisión de Diseño ADD-12: Elección de contenedor de nuestros microservicios
 * Status: proposed
 * Deciders: Antonio Agudo Esperanza y Marcos Robles Rodriguez
 * Date: 2020-12-02 
 ## Context and Problem Statement
-* Necesitamos usar un contenedor para guardar todos los microservicios y todo lo necesario para la parte del servidor de nuestra arquitectura 
+* Necesitamos usar un contenedor para guardar todos los microservicios y todo lo necesario para la parte del servidor de nuestra arquitectura, con Docker
 # Decision Drivers
 * Que los contenedores estén modularizados
 * Escalabilidad
