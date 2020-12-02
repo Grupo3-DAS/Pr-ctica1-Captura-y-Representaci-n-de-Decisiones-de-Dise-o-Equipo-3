@@ -20,10 +20,10 @@
  * ya que se está añadiendo funcionalidades que no corresponden al gateway
  * ya que si hay mucho pedidos el gateway podría retrasarse en sus otras tareas
 ## Pros and Cons of the Options
-* Crear un microservicio que procese los pedidos
-** Bueno, se quita carga del gateway
-** Bueno, se mantiene una arquitectura modularizada
-** Malo, puede resultar más complicado de desarrollar
+Crear un microservicio que procese los pedidos
+* Bueno, se quita carga del gateway
+* Bueno, se mantiene una arquitectura modularizada
+* Malo, puede resultar más complicado de desarrollar
  
 ## Links <!-- optional -->
 
