@@ -1,9 +1,9 @@
-# Implementación de la cesta como un microservicio y las localizaciones de terceros
+# Decision de Diseño ADD-13: Implementación de la cesta como un microservicio y las localizaciones de terceros
 * Status: proposed
 * Deciders:Antonio Agudo Esperanza y Marcos Robles Rodriguez
 * Date: 2020-12-08
 ## Context and Problem Statement
-* Se pide implementa una cesta de la compra que usará una caché y la localización de microservicios de terceros en MongoDB 
+* Se pide implementa una cesta de la compra (como un microservicio) que usará una caché y la localización de microservicios de terceros en MongoDB 
 ## Decision Drivers
 * Se nos pide implementar la cesta.
 * Se píde que la cesta use una cache
