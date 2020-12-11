@@ -1,5 +1,5 @@
 # Decisión de Diseño ADD-14: Comunicación de los servicios con una API REST
-* Status: proposed
+* Status:accepted
 * Deciders:Antonio Agudo Esperanza y Marcos Robles Rodriguez
 * Date:2020-12-08
  
