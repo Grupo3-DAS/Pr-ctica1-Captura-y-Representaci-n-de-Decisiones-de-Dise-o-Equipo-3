@@ -1,5 +1,5 @@
 # Decision de Diseño ADD-13: Implementación de la cesta como un microservicio y las localizaciones de terceros
-* Status: proposed
+* Status: accepted
 * Deciders:Antonio Agudo Esperanza y Marcos Robles Rodriguez
 * Date: 2020-12-08
 ## Context and Problem Statement
